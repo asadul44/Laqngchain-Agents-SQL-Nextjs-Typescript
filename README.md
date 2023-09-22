@@ -32,21 +32,21 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ## Installing the app
 
 ```bash!
-cd api
+cd expressjs_api/nestjs_api
 npm install
 ```
 
 ```bash
-cd client
+cd nextjs_client
 npm install
 ```
 
 ## Running the app
 
 ```bash
-/express-api
+/expressjs-api
 nodemon or npm run start
-/client
+/nextjs_client
 npm run dev
 ```
 ## Follow Up
