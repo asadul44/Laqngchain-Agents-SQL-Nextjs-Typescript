@@ -49,11 +49,6 @@ nodemon or npm run start
 /client
 npm run dev
 ```
-
-#### See it in action
-
-https://github.com/Syed007Hassan/NextJs-Langchain-Agents-SQL/assets/104893311/2616a2b5-0512-47f0-8271-014a6d243213
-
 ## Follow Up
 
 **Currently I have set SQLite and PostgreSQL connections only, but using TypeORM you can set any Database. To further extend this project, fork this repo and make PRs.**
